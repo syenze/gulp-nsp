@@ -6,5 +6,5 @@ machine:
 
 test:
   override:
-    - npm run nsp
+    - npm run test
 
